@@ -1,0 +1,32 @@
+h1{
+
+
+    text-align: center;
+
+
+}
+
+body{
+
+    background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/crissXcross.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+
+#icon{
+
+
+}
+.tempBox{
+
+    border-radius:10px;
+    position:relative;
+    margin:8% auto auto auto;
+    padding:40px 50px;
+    display:table;
+    background-color:#fff;
+    text-align: center;
+
+}
